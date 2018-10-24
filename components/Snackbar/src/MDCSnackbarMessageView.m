@@ -61,7 +61,7 @@ static const CGFloat kLegacyCornerRadius = 0;
  Padding between the edges of the Snackbar and any content.
  */
 static UIEdgeInsets kContentMargin = (UIEdgeInsets){16.0, 16.0, 16.0, 8.0};
-static UIEdgeInsets kLegacyContentMargin = (UIEdgeInsets){18.0, 24.0, 18.0, 24.0};
+static UIEdgeInsets kLegacyContentMargin = (UIEdgeInsets){18.0, 20.0, 18.0, 15.0};
 
 /**
  Padding between the image and the main title.
